@@ -55,7 +55,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
@@ -79,9 +78,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="50" height="50"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50"/>
@@ -106,17 +103,12 @@
 
 ---
 
-## 📈 Contribution Graph
-[![Harikant's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harikantbajaj&theme=tokyo-night)](https://github.com/harikantbajaj)
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://twitter.com/harikantbajaj08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harikantbajaj08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikant" height="30" width="40" /></a>
-<a href="https://instagram.com/hari_kant_bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari_kant_bajaj" height="30" width="40" /></a>
+<a href="https://instagram.com/hari__bajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari_kant_bajaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harikantb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harikantb08" height="30" width="40" /></a>
 <a href="https://github.com/harikantbajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="harikantbajaj" height="30" width="40" /></a>
 <a href="mailto:harikantb08@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
