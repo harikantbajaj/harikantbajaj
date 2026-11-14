@@ -1,7 +1,7 @@
 <h1>Hi, I'm Harikant Bajaj 👋</h1>
 
 **AI Engineer** building LLM agents, voice AI and computer vision for real-world operations.
-Software Engineer at **CARS24** and **Ainterviews.com** · Gurugram, India · open to AI engineering roles
+AI Engineer at **Oggnai Technologies**, building for **CARS24** and **Lenskart** · Gurugram, India · open to AI engineering roles
 
 <p>
   <a href="https://www.linkedin.com/in/harikant/"><img src="https://img.shields.io/badge/LinkedIn-harikant-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,14 +14,14 @@ Software Engineer at **CARS24** and **Ainterviews.com** · Gurugram, India · op
 
 ### What I build at work
 
-I'm the **sole engineer** on ProcessFlows.ai, the operations platform used every day across CARS24 hubs, and I build AI hiring and training tools at Ainterviews.com (used by Lenskart, Stanza Living, SolarSquare and The Pant Project).
+At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operations platform used across CARS24 hubs, and I build AI hiring and training tools for Lenskart.
 
-- 🗣️ **Project Limitless**: a multilingual **voice AI assistant** (Hindi, Tamil, Telugu, Kannada) that explains tasks, trains workers and helps them finish their work. One worker who couldn't read the app went from **rank 60 to rank 1**.
+- 🗣️ **Project Limitless** (co-built): a multilingual **voice AI assistant** (Hindi, Tamil, Telugu, Kannada) that explains tasks, trains workers and helps them finish their work. One worker who couldn't read the app went from **rank 60 to rank 1**.
 - 🤖 **Agent API**: permission-checked, organization-scoped actions so AI agents can run real operations, with queued and logged writes and a **dry-run** preview.
 - 👁️ **Real-time vision audits**: phone camera → Claude / Gemini vision models → **structured JSON** results, with async processing and retries.
 - 🧾 **OCR** for fuel receipts and odometer photos, and **face-recognition attendance** (InsightFace) with location checks.
 - 💬 **Conversational forms**: an LLM pulls typed fields out of normal conversation using **tool calling**.
-- 🧑‍💼 **AI hiring chatbot**, interview workflows and onboarding/training at Ainterviews.com.
+- 🧑‍💼 **AI hiring chatbot**, hiring and training workflows and onboarding for Lenskart.
 
 ---
 
