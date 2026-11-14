@@ -29,6 +29,7 @@ At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operati
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**ideablock-rag**](https://github.com/harikantbajaj/ideablock-rag) | RAG that retrieves question + answer + metadata blocks instead of text chunks. On the sample set: Hit@1 50% → 100%, ~4–5× less context, permission-aware. Offline and tested. | Python · scikit-learn |
 | [**paxcli**](https://github.com/harikantbajaj/paxcli) | Verifies coding-agent performance fixes and produces a reproducible proof receipt. Published on [npm](https://www.npmjs.com/package/paxcli). | TypeScript · CI |
 | [**ai-travel-multi-agent**](https://github.com/harikantbajaj/ai-travel-multi-agent) | Multi-agent itinerary and expense planner with weather, attraction and budget tools. | Python · LangGraph · Gemini |
 | [**pokemon-mcp-server**](https://github.com/harikantbajaj/pokemon-mcp-server) | Model Context Protocol server exposing data lookup and battle-simulation tools to LLM clients. | Python · MCP |
@@ -48,7 +49,7 @@ At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operati
 
 ### Writing
 
-- [Embed question + answer + metadata, not raw chunks: a better unit of knowledge for RAG](https://x.com/harikantbajaj08)
+- Embed question + answer + metadata, not raw chunks: a better unit of knowledge for RAG ([code](https://github.com/harikantbajaj/ideablock-rag) · [X](https://x.com/harikantbajaj08))
 - Shipping AI to frontline users: voice beats text, their language beats a better model ([LinkedIn](https://www.linkedin.com/in/harikant/recent-activity/all/))
 
 <p>
