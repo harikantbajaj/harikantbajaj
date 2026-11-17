@@ -1,7 +1,7 @@
 <h1>Hi, I'm Harikant Bajaj 👋</h1>
 
 **AI Engineer** building LLM agents, voice AI and computer vision for real-world operations.
-AI Engineer at **Oggnai Technologies**, building for **CARS24** and **Lenskart** · Gurugram, India · open to AI engineering roles
+AI Engineer at **Oggnai Technologies**, building for **CARS24**, **Lenskart**, **CopalHQ**, **Stanza Living** and **SolarSquare** · Gurugram, India · open to AI engineering roles
 
 <p>
   <a href="https://www.linkedin.com/in/harikant/"><img src="https://img.shields.io/badge/LinkedIn-harikant-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,14 +14,16 @@ AI Engineer at **Oggnai Technologies**, building for **CARS24** and **Lenskart**
 
 ### What I build at work
 
-At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operations platform used across CARS24 hubs, and I build AI hiring and training tools for Lenskart.
+At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operations platform used across CARS24 hubs, and I build AI hiring, training and WhatsApp automation for Lenskart, CopalHQ, Stanza Living and SolarSquare.
 
 - 🗣️ **Project Limitless** (co-built): a multilingual **voice AI assistant** (Hindi, Tamil, Telugu, Kannada) that explains tasks, trains workers and helps them finish their work. One worker who couldn't read the app went from **rank 60 to rank 1**.
 - 🤖 **Agent API**: permission-checked, organization-scoped actions so AI agents can run real operations, with queued and logged writes and a **dry-run** preview.
 - 👁️ **Real-time vision audits**: phone camera → Claude / Gemini vision models → **structured JSON** results, with async processing and retries.
 - 🧾 **OCR** for fuel receipts and odometer photos, and **face-recognition attendance** (InsightFace) with location checks.
 - 💬 **Conversational forms**: an LLM pulls typed fields out of normal conversation using **tool calling**.
-- 🧑‍💼 **AI hiring chatbot**, hiring and training workflows and onboarding for Lenskart.
+- 🧑‍💼 **End-to-end hiring automation for Lenskart**: job applications → online tests → **AI interviews**, plus an AI hiring chatbot, onboarding and training workflows.
+- 📲 **AI WhatsApp agent for CopalHQ** (built solo, live): handles conversations, **reminders and scheduling**, with an admin **dashboard**.
+- 🎓 **Training automation** for learners at **Stanza Living**, and training delivered for **SolarSquare** on **Ainterviews OS**, an LMS platform.
 
 ---
 
