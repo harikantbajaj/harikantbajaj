@@ -22,7 +22,7 @@ At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operati
 - 🧾 **OCR** for fuel receipts and odometer photos, and **face-recognition attendance** (InsightFace) with location checks.
 - 💬 **Conversational forms**: an LLM pulls typed fields out of normal conversation using **tool calling**.
 - 🧑‍💼 **End-to-end hiring automation for Lenskart**: job applications → online tests → **AI interviews**, plus an AI hiring chatbot, onboarding and training workflows.
-- 📲 **AI WhatsApp agent for CopalHQ** (built solo, live): handles conversations, **reminders and scheduling**, with an admin **dashboard**.
+- 📲 **AI WhatsApp agent for CopalHQ** (built solo, live at +91 78290 03904): handles conversations, **reminders and scheduling**, with an admin **dashboard**.
 - 🎓 **Training automation** for learners at **Stanza Living**, and training set up for **SolarSquare** teams on an LMS.
 
 ---
