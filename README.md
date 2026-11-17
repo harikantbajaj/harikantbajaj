@@ -23,7 +23,7 @@ At Oggnai Technologies I'm the **lead engineer** on ProcessFlows.ai, the operati
 - 💬 **Conversational forms**: an LLM pulls typed fields out of normal conversation using **tool calling**.
 - 🧑‍💼 **End-to-end hiring automation for Lenskart**: job applications → online tests → **AI interviews**, plus an AI hiring chatbot, onboarding and training workflows.
 - 📲 **AI WhatsApp agent for CopalHQ** (built solo, live): handles conversations, **reminders and scheduling**, with an admin **dashboard**.
-- 🎓 **Training automation** for learners at **Stanza Living**, and training delivered for **SolarSquare** on **Ainterviews OS**, an LMS platform.
+- 🎓 **Training automation** for learners at **Stanza Living**, and training set up for **SolarSquare** teams on an LMS.
 
 ---
 
